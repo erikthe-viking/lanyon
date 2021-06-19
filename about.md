@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Im currently a software engineer on Cisco's Webex Calling team. Before Cisco I was a student at Texas A&M where I studied Computer Engineering (CS and EE). In addition I am a competitive Judo black belt and Brazilian Jiu Jitsu blue belt. 
+Im currently a Backend Software Engineer on Cisco's Webex Calling team. Before Cisco I was a student at Texas A&M where I studied Computer Engineering (CS and EE). In addition I am a competitive Judo black belt and Brazilian Jiu Jitsu blue belt. 
 
 ## Interests
 
