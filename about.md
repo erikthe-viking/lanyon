@@ -3,14 +3,14 @@ layout: page
 title: About Me
 ---
 
-Im currently a software engineer on Cisco Webex Calling. Before Cisco I was a student at Texas A&M where I studied Computer Engineering (CS and EE). In addition I am a competitive Judo black belt and Brazilian Jiu Jitsu blue belt. 
+Im currently a software engineer on Cisco's Webex Calling team. Before Cisco I was a student at Texas A&M where I studied Computer Engineering (CS and EE). In addition I am a competitive Judo black belt and Brazilian Jiu Jitsu blue belt. 
 
 ## Books 
 
 What I am currently Reading: 
 * Business Adventures by John Brooks (Bill Gates and Warren Buffett's favorite business book)
 
-Books I have Read that have influenced my thinking:
+Books I have read that have influenced my thinking:
 
 * Principles by Ray Dalio
 * A Fighters Heart by Sam Sheridan
