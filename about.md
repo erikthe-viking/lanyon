@@ -1,29 +1,44 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Im currently a software engineer on Cisco Webex Calling. Before Cisco I was a student at Texas A&M where I studied Computer Engineering (CS and EE). In addition I am a competitive Judo black belt and Brazilian Jiu Jitsu blue belt. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Books 
 
-There are currently two themes built on Poole:
+What I am currently Reading: 
+* Business Adventures by John Brooks (Bill Gates and Warren Buffett's favorite business book)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Books I have Read that have influenced my thinking:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Principles by Ray Dalio
+* A Fighters Heart by Sam Sheridan
+* The Ultimate Sales Machine by Chet Holmes
+* Universal Principles of Design by Lidwell,Holden,Butler
+* Harvard Business Reviews Entrepeneur's handbook 
+* Game Theory at Work by James Miller
+* The 22 Immutable Laws of Marketing by Al Ries and Jack Trout 
+* Super Forecasting by Phillip E. Tetlock and Dan Gardner 
+* Barbarians at the Gate by Bryan Burrough and John Helyar 
+* The American Challenge by Jean-Jacques Servan-Schreiber (Peter Thiel's favorite book on innovation)
+* Berkshire Hathaway Letters to Shareholders by Warren Buffett (Best way to learn about investing according to Bill Ackman)
+* Zero to One by Peter Thiel
+* Law 101: Everything You Need to Know About American Law by Jay Feinman
 
-## Setup
+My Reading List:
 
-Some fun facts about the setup of this project include:
+* The Wires of War: Technology and the Global Struggle for Power by Jacob Helberg
+* Things Hidden Since the Foundation of the World
+by René Girard
+* Mind Over Muscle: Writings from the Founder of Judo by Jigoro Kano, Naoki Murata
+* Blood Rites: Origins and History of the Passions of War by Barbara Ehrenreich
+* Wild Swans: Three Daughters of China by Jung Chang
+* The Great Illusion A Study of the Relation of Military Power to National Advantage by Norman Angell 
+* Xi Jinping: The Governance of China Volume 1: by Xi Jinping 
+* The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business by Clayton M. Christensen 
+* Common Stocks and Uncommon Profits and Other Writings by Philip A. Fisher, Kenneth L. Fisher
+* Kimura: The Triumphs and Tragedy of One of Judo's Greatest and Most Controversial Judo Champions by Christopher M. Clarke 
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
