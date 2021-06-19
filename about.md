@@ -14,7 +14,7 @@ Professional Interests:
 * Practical applications of Machine learning 
 
 Personal Interests:
-* Seamlessesly integrating the techniques of Brazilian Jiu Jitsu, Judo and Submission Wrestling
+* Seamlessesly integrating the techniques of Brazilian Jiu Jitsu and Judo
 * Nutrition 
 * Solo Travel to obscure locations 
 * Practical Strength Training
