@@ -4,7 +4,7 @@ title: Reading
 ---
 
 What I am currently Reading: 
-* Business Adventures by John Brooks (Bill Gates and Warren Buffett's favorite business book)
+* **Business Adventures** by John Brooks (Bill Gates and Warren Buffett's favorite business book)
 
 Books I have read that have influenced my thinking:
 
