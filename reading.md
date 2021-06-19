@@ -37,5 +37,3 @@ by René Girard
 * Common Stocks and Uncommon Profits and Other Writings by Philip A. Fisher, Kenneth L. Fisher
 * Kimura: The Triumphs and Tragedy of One of Judo's Greatest and Most Controversial Judo Champions by Christopher M. Clarke 
 
-
-Thanks for reading!
