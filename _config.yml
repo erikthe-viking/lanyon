@@ -1,7 +1,7 @@
 # Setup
 title:               Erik Kirkegaard
 tagline:             'Contrarian'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'A reserved theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://www.erikkirkegaard.com/
 baseurl:             ''
 paginate:            5
