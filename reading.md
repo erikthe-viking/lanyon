@@ -3,7 +3,7 @@ layout: page
 title: Reading
 ---
 
-What I am currently Reading: 
+What I am currently reading: 
 * **Business Adventures** by John Brooks (Bill Gates and Warren Buffett's favorite business book)
 
 Books I have read that have influenced my thinking:
@@ -22,7 +22,7 @@ Books I have read that have influenced my thinking:
 * **Zero to One** by Peter Thiel
 * **Law 101: Everything You Need to Know About American Law** by Jay Feinman
 
-My Reading List:
+My reading list:
 
 * **The Wires of War: Technology and the Global Struggle for Power** by Jacob Helberg
 * **Things Hidden Since the Foundation of the World** by René Girard
