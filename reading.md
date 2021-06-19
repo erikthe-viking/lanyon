@@ -2,7 +2,6 @@
 layout: page
 title: Reading
 ---
-## Books 
 
 What I am currently Reading: 
 * Business Adventures by John Brooks (Bill Gates and Warren Buffett's favorite business book)
