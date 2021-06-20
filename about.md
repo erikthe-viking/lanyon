@@ -23,4 +23,9 @@ Personal Interests:
 * Solo Travel
 * Practical Strength Training
 
-Thanks for reading!
+
+Feel free to connect with me on Linkedin
+
+<a href="https://www.linkedin.com/in/erik-kirkegaard-789733b1/">
+  <img src="/images/linkedin.png">
+</a>
