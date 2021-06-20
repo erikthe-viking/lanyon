@@ -25,5 +25,5 @@ Personal Interests:
 
 
 Feel free to connect with me on Linkedin <a href="https://www.linkedin.com/in/erik-kirkegaard-789733b1/">
-  <img src="/images/linkedin.png" width="50" height="50" align="right" >
+  <img src="/images/linkedin.png" width="50" height="50" align="middle" >
 </a>
