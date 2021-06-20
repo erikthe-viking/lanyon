@@ -22,6 +22,7 @@ Personal Interests:
 * Nutrition 
 * Solo Travel
 * Practical Strength Training
+* The Caucuses and Central asia
 
 
 Feel free to connect with me on Linkedin <a href="https://www.linkedin.com/in/erik-kirkegaard-789733b1/">
