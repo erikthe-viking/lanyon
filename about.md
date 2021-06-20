@@ -24,8 +24,6 @@ Personal Interests:
 * Practical Strength Training
 
 
-Feel free to connect with me on Linkedin
-
-<a href="https://www.linkedin.com/in/erik-kirkegaard-789733b1/">
-  <img src="/images/linkedin.png" width="100" height="100">
+Feel free to connect with me on Linkedin <a href="https://www.linkedin.com/in/erik-kirkegaard-789733b1/">
+  <img src="/images/linkedin.png" width="50" height="50">
 </a>
