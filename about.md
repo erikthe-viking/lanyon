@@ -3,9 +3,9 @@ layout: page
 title: About Me
 ---
 
-![GitHub Logo](/images/erik.png)
+ 
  <img src="/images/erik.png" alt="erik"
-	title="Head shot" width="150" height="100" />
+	title="Head shot" width="130" height="130" />
 
 Im currently a Backend Software Engineer on Cisco's Webex Calling team. Before Cisco I was a student at Texas A&M where I studied Computer Engineering (CS and EE). In addition I am a competitive Judo black belt and Brazilian Jiu Jitsu blue belt. 
 
