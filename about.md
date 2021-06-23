@@ -28,3 +28,6 @@ Personal Interests:
 Feel free to connect with me on Linkedin <a href="https://www.linkedin.com/in/erik-kirkegaard-789733b1/">
   <img src="/images/linkedin.png" width="50" height="50" align="middle" >
 </a>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erikthe-viking&label=Profile%20views&color=ce9927&style=flat" alt="erikthe-viking" /> </p>
