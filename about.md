@@ -6,23 +6,21 @@ title: About Me
 <img src="/images/erik.png" alt="erik"
 	title="Head shot" width="130" height="130" align="right" />
 
-Im currently a Backend Software Engineer on Cisco's Webex Calling team. Before Cisco I was a student at Texas A&M where I studied Computer Engineering (CS and EE). In addition I am a competitive Judo black belt and Brazilian Jiu Jitsu blue belt. 
+Im currently a Software Engineer at Rebellion Defense, an AI startup focused on novel applications of AI for the military and DoD. I studied Computer/Cowboy Engineering (CS and EE) at the greatest university in the world Texas A&M. In addition with my limited free time I am a competitive Judo black belt and Brazilian Jiu Jitsu blue belt (at this point a giant meme if i ever get promoted to purple). 
 
 ## Interests
 
 Professional Interests:
-* Fintech
-* Disruptive Government/Defense technology
-* Combating China through innovation and the policy that supports it
+* Defense technology
+* Fintech (not blockchain / crypto)
+* Distributed systems
 * Practical applications of Machine learning 
 
 Personal Interests:
-* Brazilian Jiu Jitsu
-* Judo
+* Brazilian Jiu Jitsu & Judo
 * Nutrition 
 * Solo Travel
-* Practical Strength Training
-* The Caucuses and Central asia
+* Cold Therapy
 
 
 Feel free to connect with me on Linkedin <a href="https://www.linkedin.com/in/erik-kirkegaard-789733b1/">
