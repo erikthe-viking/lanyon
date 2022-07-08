@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading
+title: Book Shelf
 ---
 A lot of people ask me for a reading list so here it is.
 
