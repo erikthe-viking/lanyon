@@ -6,15 +6,14 @@ title: About Me
 <img src="/images/erik.png" alt="erik"
 	title="Head shot" width="130" height="130" align="right" />
 
-Im currently a Software Engineer at Rebellion Defense, an AI startup focused on novel applications of AI for the military and DoD. I studied Computer/Cowboy Engineering (CS and EE) at the greatest university in the world Texas A&M. In addition with my limited free time I am a competitive Judo black belt and Brazilian Jiu Jitsu blue belt (at this point a giant meme if i ever get promoted to purple). 
+Im currently a Software Engineer at Rebellion Defense, an AI startup focused on novel applications of AI for the military and DoD. I studied Computer/Cowboy Engineering (CS and EE) at the greatest university in the world Texas A&M. In addition I train/compete in Judo and Brazilian Jiu Jitsu.
 
 ## Interests
 
 Professional Interests:
 * Defense technology
-* Fintech (not blockchain / crypto)
 * Distributed systems
-* Practical applications of Machine learning 
+* Applied Machine learning 
 
 Personal Interests:
 * Brazilian Jiu Jitsu & Judo
